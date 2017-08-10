@@ -1,0 +1,8 @@
+---
+coredump_storage: external
+coredump_compress: "yes"
+coredump_process_size_max: 2G
+coredump_external_size_max: 2G
+coredump_journal_size_max: 767M
+coredump_max_use: ""
+coredump_keep_free: ""
